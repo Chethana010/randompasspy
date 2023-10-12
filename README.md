@@ -2,8 +2,6 @@
 
 A simple Random Password Generator made using Python and Tkinter.
 
-![Screenshot](Screenshot (34).png)
-
 ## Features
 - Generate random passwords of specified length.
 - Passwords can include a mix of uppercase, lowercase, digits, and punctuation characters.
