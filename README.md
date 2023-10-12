@@ -1,4 +1,4 @@
- Random Password Generator
+# Random Password Generator
 
 A simple Random Password Generator made using Python and Tkinter.
 
